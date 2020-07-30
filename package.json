@@ -1,0 +1,28 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "Text based game module 10 for UCB bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGDino/jest-another-RPG.git"
+  },
+  "keywords": [
+    "game",
+    "rpg",
+    "bootcamp",
+    "module"
+  ],
+  "author": "Neil Dino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGDino/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/NGDino/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
